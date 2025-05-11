@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Vue**
 
-- 📫 How to reach me **iicechyd@gmail.com**
+- 📫 How to reach me **iicechyd.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
